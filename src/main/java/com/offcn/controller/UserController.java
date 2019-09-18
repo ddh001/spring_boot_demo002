@@ -55,4 +55,9 @@ public class UserController {
         return "redirect:/";
     }
 
+    //****
+    public void test(){
+
+    }
+
 }
