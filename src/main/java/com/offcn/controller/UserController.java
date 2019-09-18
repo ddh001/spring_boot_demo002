@@ -1,6 +1,5 @@
 package com.offcn.controller;
 
-import com.alibaba.druid.sql.visitor.functions.If;
 import com.offcn.pojo.User;
 import com.offcn.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
